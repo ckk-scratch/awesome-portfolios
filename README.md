@@ -63,3 +63,5 @@
 - [Daniel Sternlicht](http://www.danielsternlicht.com/)
 - [CJ Gammon](http://www.cjgammon.com/)
 - [Steven Wittens](http://acko.net/)
+- [Christopher Knight](http://www.serknight.com/)
+
